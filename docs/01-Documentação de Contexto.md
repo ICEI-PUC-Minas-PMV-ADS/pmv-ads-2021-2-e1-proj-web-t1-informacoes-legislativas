@@ -1,6 +1,9 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Cada vez mais o debate político tem se tornado algo disseminado entre os jovens, afinal de contas, as decisões tomadas por nossos governantes impactam diretamente na vida de familiares, amigos e das organizações.
+A participação social e política do jovem brasileiro evolui, uma pesquisa feita pelo Datafolha em agosto de 2018, mostrou que jovens entre 16 e 25 anos são o grupo com maior interesse em participar diretamente da política, seja disputando uma eleição ou assumindo cargos do governo. A transformação de um país passa necessariamente pela renovação das gerações. Portanto, disseminar informação de forma clara utilizando uma linguagem compreensível e atingindo canais onde esses jovens se encontram é fundamental para engajar ainda mais nossa juventude. Por outro lado, alguns meios de comunicação menos confiáveis, acabam adotando uma narrativa que limita o perfil de notícias apresentadas, comprometendo o universo de informação, disseminando e propagando informações inverídicas.
+Isto posto, fica claro a importância de novos canais que possibilitem o acesso à informação de qualidade e que gere curiosidade acerca de assuntos relacionados ao nosso país. 
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
