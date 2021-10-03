@@ -15,9 +15,9 @@ O protótipo na acima mostra a experiencia do usuário ao navegar pelas páginas
 
 ## Wireframes
 
-![Exemplo de Wireframe](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/wireframing/discovery/wireframe-featured-image.svg)
+![Exemplo de Wireframe](https://miro.medium.com/max/300/1*p7Ja4R0-B-8DPQZxAHTwLQ.png)
 
-  As paginas  do sie apresentam uma estrutura simples. Nesta estrutura, existem 3 grandes blocos:
+  As páginas  do sie apresentam uma estrutura clara:
 ●	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
 ●	Conteúdo - apresenta o conteúdo da tela em questão;
 ●	Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
