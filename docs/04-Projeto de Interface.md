@@ -19,5 +19,6 @@ O protótipo na acima mostra a experiencia do usuário ao navegar pelas páginas
 
   As páginas  do site apresentam uma estrutura clara:
 -	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
--	Conteúdo - apresenta o conteúdo da tela em questão;
+-	Artigo - apresenta o conteúdo da tela em questão;
 -	Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
+-	Rodapé - informações de contato.
