@@ -18,7 +18,7 @@ Ocupação: advogada, trabalha em um pequeno escritório que atua com ações ju
 
 
  ### Marcos Gomes
--    Idade: 22
+     Idade: 22
 Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	
 *  Aplicativos:
 -  Discord
@@ -28,7 +28,7 @@ Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de 
 -  Youtube 
 
 ### 	André Almeida
--    Idade: 31
+     Idade: 31
 Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o marketing digital de empresas. 	
 * Aplicativos:
 - Instagram
@@ -40,9 +40,9 @@ Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o
 
 
 ### Helena Pereira 
-- Idade: 21
+    Idade: 21
 Ocupação: Professora, funcionária de uma escola privada, ministra aulas de sociologia. 	
-* Aplicativos:
+    Aplicativos:
 - Facebook
 - Instagram
 - WhatsApp
