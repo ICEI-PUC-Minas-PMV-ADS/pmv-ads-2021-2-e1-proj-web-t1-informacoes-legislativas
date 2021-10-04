@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-<img> src="src/projeto.png"
+<img src="src/projeto.png">
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
