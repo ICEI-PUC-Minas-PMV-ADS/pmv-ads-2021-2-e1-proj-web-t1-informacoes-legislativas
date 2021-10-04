@@ -9,16 +9,18 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  ###    Larissa Alves
 	Idade: 25
-Ocupação: advogada, trabalha em um pequeno escritório que atua com ações judiciais de pequenas causas. 	Aplicativos:
+Ocupação: advogada, trabalha em um pequeno escritório que atua com ações judiciais de pequenas causas. 	
+*       Aplicativos:
 -	Instagram
 -	Tik Tok 
 -	WhatsApp
-- Youtube
+-       Youtube
 
 
  ###	Marcos Gomes
 	Idade: 22
-Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	Aplicativos:
+Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	
+* Aplicativos:
 - Discord
 - LinkedIn
 - WhatsApp
