@@ -8,7 +8,7 @@ A definição do problema e os pontos mais relevantes a serem tratados neste pro
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
  ### Larissa Alves
--    Idade: 25
+     Idade: 25
 Ocupação: advogada, trabalha em um pequeno escritório que atua com ações judiciais de pequenas causas. 	
 *  Aplicativos:
 - Instagram
