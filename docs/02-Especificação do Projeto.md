@@ -13,6 +13,8 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 
  ### Marcos Gomes
+ 
+ <img src = "">
      Idade: 22
 Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	
 #### Aplicativos:
