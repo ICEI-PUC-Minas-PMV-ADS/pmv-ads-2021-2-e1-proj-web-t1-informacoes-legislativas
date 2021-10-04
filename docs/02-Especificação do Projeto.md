@@ -36,7 +36,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Larissa Alves       | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Larissa Alves       | Visualizar as notícias políticas 
+                       mais relevantes do momento.        | Não esquecer de fazê-las               |
 |Marcos Gomes        | Alterar permissões                 | Permitir que possam administrar contas |
 |André Almeida       | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Helena Pereira      | Alterar permissões                 | Permitir que possam administrar contas |
