@@ -10,7 +10,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
  ### Larissa Alves
      Idade: 25
 Ocupação: advogada, trabalha em um pequeno escritório que atua com ações judiciais de pequenas causas. 	
-*  Aplicativos:
+#### Aplicativos:
 - Instagram
 - Tik Tok 
 - WhatsApp
@@ -20,7 +20,7 @@ Ocupação: advogada, trabalha em um pequeno escritório que atua com ações ju
  ### Marcos Gomes
      Idade: 22
 Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	
-*  Aplicativos:
+#### Aplicativos:
 -  Discord
 -  LinkedIn
 -  WhatsApp
@@ -30,7 +30,7 @@ Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de 
 ### 	André Almeida
      Idade: 31
 Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o marketing digital de empresas. 	
-* Aplicativos:
+#### Aplicativos:
 - Instagram
 - Tinder
 - WhatsApp
@@ -39,10 +39,10 @@ Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o
 
 
 
-#### Helena Pereira 
+### Helena Pereira 
     Idade: 21
 Ocupação: Professora, funcionária de uma escola privada, ministra aulas de sociologia. 	
-##### Aplicativos:
+#### Aplicativos:
 - Facebook
 - Instagram
 - WhatsApp
