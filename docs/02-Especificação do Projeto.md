@@ -28,9 +28,9 @@ Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de 
 -  Youtube 
 
 ### 	André Almeida
-	Idade: 31
+Idade: 31
 Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o marketing digital de empresas. 	
-       * Aplicativos:
+      * Aplicativos:
 - Instagram
 - Tinder
 - WhatsApp
