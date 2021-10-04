@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-<img src="blob:https://whimsical.com/1dcbbce6-50b4-46ec-9f05-23b44d2037e9" alt="My cool logo"/>
+(![img](http://i.imgur.com/yourfilename.png))
 
 
 A solução implementada conta com os seguintes módulos:
