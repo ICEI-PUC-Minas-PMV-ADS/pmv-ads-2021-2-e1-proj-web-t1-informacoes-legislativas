@@ -14,38 +14,19 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  ### Marcos Gomes
  
- <img src = "">
-     Idade: 22
-Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	
-#### Aplicativos:
--  Discord
--  LinkedIn
--  WhatsApp
--  Tik Tok
--  Youtube 
+ <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/ma.png?raw=true">
+
 
 ### 	André Almeida
-     Idade: 31
-Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o marketing digital de empresas. 	
-#### Aplicativos:
-- Instagram
-- Tinder
-- WhatsApp
-- Facebook
-- Telegram
+
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/An.png?raw=true">
 
 
 
 ### Helena Pereira 
-    Idade: 21
-Ocupação: Professora, funcionária de uma escola privada, ministra aulas de sociologia. 	
-#### Aplicativos:
-- Facebook
-- Instagram
-- WhatsApp
-- Discord
-- Tik Tok
-- Kwaii
+
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/he.png?raw=true">
+
 
 
 
