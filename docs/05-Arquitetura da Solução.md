@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-(![img](http://i.imgur.com/yourfilename.png)
+![img](http://i.imgur.com/yourfilename.png)
 
 
 A solução implementada conta com os seguintes módulos:
