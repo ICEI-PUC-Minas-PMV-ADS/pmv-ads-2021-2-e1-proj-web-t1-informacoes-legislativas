@@ -14,7 +14,7 @@ Ocupação: advogada, trabalha em um pequeno escritório que atua com ações ju
 -	Instagram
 -	Tik Tok 
 -	WhatsApp
--      Youtube
+
 
 
  ###	Marcos Gomes
