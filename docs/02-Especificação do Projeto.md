@@ -39,7 +39,7 @@ Ocupação: Publicitário, é sócio de uma agência de publicidade que produz o
 
 
 
-### Helena Pereira 
+#### Helena Pereira 
     Idade: 21
 Ocupação: Professora, funcionária de uma escola privada, ministra aulas de sociologia. 	
 ### Aplicativos:
