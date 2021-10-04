@@ -9,7 +9,7 @@ Para a área de interação do site, priorizamos a simplicidade, facilidade e us
 
 ![Exemplo de UserFlow](https://cdn.dribbble.com/users/1286672/screenshots/6442079/userflowsdrib.gif)
 
-O protótipo na acima mostra a experiencia do usuário ao navegar pelas páginas do site. 
+O protótipo acima mostra a experiencia do usuário ao navegar pelas páginas do site. 
 
 
 
