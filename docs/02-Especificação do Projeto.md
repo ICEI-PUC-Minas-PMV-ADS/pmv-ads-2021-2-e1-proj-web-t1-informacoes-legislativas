@@ -49,13 +49,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001 | O site deve apresentar na página principal notícias legislativas obtidas por meio de canais oficiais do governo federal.  | ALTA | 
-|RF-002 | O site deverá apresentar atrativos visuais.   | ALTA |
-|RF-003 | O site deverá apresentar notícias dinâmicas.  | MÉDIA | 
-|RF-004 | Agregar ao site um menu de busca para que o usuário possa buscar notícias específicas bem como deverá ter um menu adicional para que o usuário possa buscar notícias especificas.   | ALTA |
-|RF-005 | Permitir visualizar os criadores e mantenedores desse site | MÉDIA/ALTA | 
-|RF-006 | Agregar ao site o botão compartilhar para as redes sociais (Facebook, Twitter, Instagram).   | MÉDIA |
-|RF-007 | O site deve exibir os comentários registrados juntamente com a notícia exibida e deve permitir que usuários possam comentar.   | BAIXA |
+|RF-001| O site deve apresentar na página principal notícias legislativas obtidas por meio de canais oficiais do governo federal.    | ALTA | 
+|RF-002| O site deverá apresentar atrativos visuais.                                                                                 | ALTA |
+|RF-003| O site deverá apresentar notícias dinâmicas.                                                                                | MÉDIA | 
+|RF-004| Agregar ao site um menu de busca para que o usuário possa buscar notícias específicas bem como deverá ter um menu adicional para que o usuário possa buscar notícias especificas.                                                                                                                         | ALTA |
+|RF-005| Permitir visualizar os criadores e mantenedores desse site                                                                  | MÉDIA/ALTA | 
+|RF-006| Agregar ao site o botão compartilhar para as redes sociais (Facebook, Twitter, Instagram).                                  | MÉDIA |
+|RF-007| O site deve exibir os comentários registrados juntamente com a notícia exibida e deve permitir que usuários possam comentar.| BAIXA |
 
 ### Requisitos não Funcionais
 
