@@ -1,12 +1,12 @@
 # Informações  Legislativas
 
-`CURSO`
+Tecnologia em Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+2/2021
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de um portal de notícias que permita o acesso a notícias legislativas federais.
 
 ## Integrantes
 
