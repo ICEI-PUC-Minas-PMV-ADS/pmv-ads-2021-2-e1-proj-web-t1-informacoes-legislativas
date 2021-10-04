@@ -12,8 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-![img](https://whimsical.com/1dcbbce6-50b4-46ec-9f05-23b44d2037e9)
-
+<img> src="src/projeto.png"
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
