@@ -12,7 +12,7 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura abaixo:
 
-<img src="src/projeto.png">
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/projeto.png?raw=true">
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
