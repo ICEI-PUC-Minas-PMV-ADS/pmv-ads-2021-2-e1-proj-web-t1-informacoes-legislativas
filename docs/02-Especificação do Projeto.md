@@ -48,7 +48,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|------|-----------------------------------------------------------------------------------------------------------------------------|------|
 |RF-001| O site deve apresentar na página principal notícias legislativas obtidas por meio de canais oficiais do governo federal.    | ALTA | 
 |RF-002| O site deverá apresentar atrativos visuais.                                                                                 | ALTA |
 |RF-003| O site deverá apresentar notícias dinâmicas.                                                                                | MÉDIA | 
