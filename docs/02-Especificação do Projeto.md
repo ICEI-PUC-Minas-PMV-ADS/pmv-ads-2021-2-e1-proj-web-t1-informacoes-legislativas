@@ -72,9 +72,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2021. |
-|02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end (HTML, CSS e JavaScript)        |
-|03| A equipe não pode subcontratar o desenvolvimento do trabalho.        |
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2021. |
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end (HTML, CSS e JavaScript)        |
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.        |
 
 
 
