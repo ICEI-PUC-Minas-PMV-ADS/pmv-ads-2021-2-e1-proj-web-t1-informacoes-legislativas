@@ -20,12 +20,12 @@ Ocupação: advogada, trabalha em um pequeno escritório que atua com ações ju
  ###	Marcos Gomes
 	Idade: 22
 Ocupação: Programador, funcionário de uma empresa que desenvolve produtos de software.	
-* Aplicativos:
-- Discord
-- LinkedIn
-- WhatsApp
-- Tik Tok
-- Youtube 
+*  Aplicativos:
+-  Discord
+-  LinkedIn
+-  WhatsApp
+-  Tik Tok
+-  Youtube 
 
 
 ## Histórias de Usuários
