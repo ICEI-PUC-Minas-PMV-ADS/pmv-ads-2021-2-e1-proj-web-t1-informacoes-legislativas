@@ -56,7 +56,7 @@ A ferramenta empregada no projeto:
 |Documentos do projeto|Google Drive||
 |Projeto de Interface|MarvelApp||
 |Wireframes|Figma||
-|Gerenciamento do Projeto||
+|Gerenciamento do Projeto|GitHub||
 
  
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
