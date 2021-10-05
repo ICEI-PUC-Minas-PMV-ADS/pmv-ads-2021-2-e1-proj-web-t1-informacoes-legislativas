@@ -59,6 +59,4 @@ A ferramenta empregada no projeto:
 |Gerenciamento do Projeto|GitHub||
 
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
