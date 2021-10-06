@@ -47,7 +47,7 @@ etiquetas:
 
 ### Ferramentas
 
-A ferramenta empregada no projeto:
+As ferramentas empregada no projeto:
 
 |`Ambiente`|`Plataforma` |`Link de Acesso` |
 |:------------------:|:------------------:|:------------------:|
