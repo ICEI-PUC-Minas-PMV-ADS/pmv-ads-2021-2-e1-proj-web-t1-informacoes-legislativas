@@ -12,7 +12,6 @@ Criação de um portal de notícias que permita o acesso a notícias legislativa
 
 * Nielsen
 * Gabriel
-* Paulo
 * Rafael
 * Bruna
 * Victor
