@@ -5,7 +5,7 @@ Projeto: Desenvolvimento de Aplicação Web Front-End
 
 2/2021
 
-Criação de um portal de notícias que permita o acesso a notícias .
+Criação de um portal de notícias com entrevistas, fotos, vídeos e os bastidores do esporte .
 
 ## Integrantes
 
