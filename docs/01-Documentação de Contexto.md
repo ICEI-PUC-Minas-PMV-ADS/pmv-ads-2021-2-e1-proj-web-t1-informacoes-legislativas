@@ -25,6 +25,7 @@ Há uma falta de portais de notícias políticas destinados a usuários jovens q
 ## Público-Alvo
 
 O foco deste trabalho está no público que tem habito de ler notícia sobre esportes com intuito de ampliarem os seus conhecimentos.
-Desta forma, estabeleceu-se como público-alvo adolescentes e adultos brasileiros. Que buscam constante atualização sobre temas esportivo e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados.
+Desta forma, estabeleceu-se como público-alvo adolescentes e adultos brasileiros.
+Que buscam constante atualização sobre temas esportivo e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados.
  
 
