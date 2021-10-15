@@ -1,5 +1,4 @@
-# Informações  
-
+# Portal de notícias de esportes
 Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Projeto: Desenvolvimento de Aplicação Web Front-End
