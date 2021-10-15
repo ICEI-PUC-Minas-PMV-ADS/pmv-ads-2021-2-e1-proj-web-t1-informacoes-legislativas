@@ -24,8 +24,7 @@ Há uma falta de portais de notícias políticas destinados a usuários jovens q
 
 ## Público-Alvo
 
-O foco deste trabalho está no público que tem o hábito de ler notícias curtas com o intuito de ampliarem os seus conhecimentos relacionados a política.
-
-Desta forma, estabeleceu-se como público-alvo desta solução os homens e as mulheres entre 18 e 35 casados ou solteiros, com ou sem filhos. Brasileiros que buscam constantes atualizações sobre temas legislativos e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados.
+O foco deste trabalho está no público que tem habito de ler notícia sobre esportes com intuito de ampliarem os seus conhecimentos.
+Desta forma, estabeleceu-se como público-alvo adolescentes e adultos brasileiros. Que buscam constante atualização sobre temas esportivo e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados.
  
 
