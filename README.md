@@ -1,4 +1,4 @@
-# Portal de notícias de esportes
+# Portal de notícias sobre o mundo dos Esportes 
 Tecnologia em Análise e Desenvolvimento de Sistemas
 
 Projeto: Desenvolvimento de Aplicação Web Front-End
@@ -9,7 +9,6 @@ Criação de um portal de notícias com entrevistas, fotos, vídeos e os bastido
 
 ## Integrantes
 
-* Nielsen
 * Gabriel
 * Rafael
 * Bruna
