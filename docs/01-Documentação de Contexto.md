@@ -20,12 +20,18 @@ Como objetivos específicos, podemos ressaltar:
 
 ## Justificativa
 
-Há uma falta de portais de notícias políticas destinados a usuários jovens que não são leitores frequentes de jornais, revistas ou sites de notícias. O projeto visa que os usuários possam ter uma experiencia agradável e dinâmica e que possivelmente venham a se interessar por tais temas que influenciam suas vidas. 
+A Cada dia, nossos jovens têm a tecnologia como companheira dos seus momentos de lazer. No entanto, o esporte para crianças e adolescentes deve ser estimulado, especialmente por todos os benefícios que proporciona.
+
+Não há dúvida de quanto os exercícios físicos são fundamentais para nos manter saudáveis, ajudando inclusive na prevenção de doenças.
+
+O esporte para crianças e adolescentes, auxilia não apenas nessa questão, mas também no crescimento e no desenvolvimento físico, mental e emocional.
+
+Há uma falta de portais de notícias esportivas destinadas a usuários jovens que não são leitores frequentes de jornais, revistas ou sites de notícias. O projeto visa que os usuários possam ter uma experiência agradável e dinâmica e que possivelmente se interessem por práticas esportivas que possam beneficiar suas vidas.
 
 ## Público-Alvo
 
 O foco deste trabalho está no público que tem habito de ler notícia sobre esportes com intuito de ampliarem os seus conhecimentos.
-Desta forma, estabeleceu-se como público-alvo adolescentes e adultos brasileiros.
+Desta forma, estabeleceu-se como público-alvo adolescentes e jovens adultos brasileiros.
 Que buscam constante atualização sobre temas esportivo e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados.
  
 
