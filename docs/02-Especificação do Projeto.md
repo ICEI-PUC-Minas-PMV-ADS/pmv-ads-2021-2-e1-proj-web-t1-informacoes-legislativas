@@ -12,20 +12,20 @@ As personas levantadas durante o processo de entendimento do problema são apres
 <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/luana.png?raw=true">
 
 
- ### Marcos Gomes
+ ### Marcelo Gomes
  
- <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/ma.png?raw=true">
+ <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/marcelo.png?raw=true">
 
 
-### 	André Almeida
+### 	Andréia Almeida
 
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/An.png?raw=true">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/andreia.png?raw=true">
 
 
 
-### Helena Pereira 
+### João Pereira 
 
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/he.png?raw=true">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/joao.png?raw=true">
 
 
 
