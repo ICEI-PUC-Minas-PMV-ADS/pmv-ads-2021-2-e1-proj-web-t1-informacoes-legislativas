@@ -9,7 +9,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  ### Larissa Alves
 
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/la.png?raw=true">
+<img src = "src/socccer girl.jpg">
 
 
  ### Marcos Gomes
