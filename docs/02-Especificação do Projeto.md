@@ -7,7 +7,7 @@ A definição do problema e os pontos mais relevantes a serem tratados neste pro
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
 
- ### Larissa Alves
+ ### Luana Alves
 
 <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/luana.png?raw=true">
 
