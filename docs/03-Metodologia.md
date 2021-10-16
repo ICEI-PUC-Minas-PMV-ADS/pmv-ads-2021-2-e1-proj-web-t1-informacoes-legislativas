@@ -61,7 +61,7 @@ As ferramentas empregada no projeto:
 |`Ambiente`|`Plataforma` |`Link de Acesso` |
 |:------------------:|:------------------:|:------------------:|
 |Desenvolvimento do código|VS code||
-|Repositório de código fonte|GitHub||
+|Repositório de código fonte|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas|
 |Projeto de Interface|||
 |Wireframes|Figma||
 |Gerenciamento do Projeto|GitHub|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/projects/1|
