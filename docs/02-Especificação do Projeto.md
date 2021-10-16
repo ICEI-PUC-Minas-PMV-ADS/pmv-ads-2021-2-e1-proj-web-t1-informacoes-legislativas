@@ -36,10 +36,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Luana Alves         | Visualizar as notícias políticas mais relevantes do momento.                                  | Tomar ciência dos fatos políticos que me interessam.|
-|Marcelo Gomes       | Visualizar notícias mais relevantes do meu país.                                              | Estar a par do que acontece no cenário federal.     |
-|Andréia Almeida     |Manter um registro de notícias específicas sobre os candidatos que possuo interesse particular | Visualizar e manter um histórico de notícias que possam ser compartilhadas posteriormente.               |
-|João Pereira        | Ler notícias mais relevantes do âmbito federal.              | Levantar temas relevantes a serem debatidos em sala de aula com os alunos. |
+|Luana Alves         | Ler notícias esportivas mais relevantes do momento.                                           | Tomar ciência dos jogos de futebol que me interessam.|
+|Marcelo Gomes       | Visualizar campeonatos de skate mais relevantes do meu país.                                  | Estar a par do que acontece no mudno do skate.       |
+|Andréia Almeida     | Visualizar notícias específicas sobre surf.                                                   | Visualizar notícias que possam me interessar.        |
+|João Pereira        | Ler sobre temas ligados a basketball.                                                         | Navegar por um site com notícias de basketball       |
 
 ## Requisitos
 
@@ -49,7 +49,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------------------------------------------------------------------------------------------|------|
-|RF-01| O site deve apresentar na página principal notícias legislativas obtidas por meio de canais oficiais do governo federal.    | ALTA | 
+|RF-01| O site deve apresentar na página principal notícias esportivas obtidas por meio de canais confiáveis.                       | ALTA | 
 |RF-02| O site deverá apresentar atrativos visuais.                                                                                 | ALTA |
 |RF-03| O site deverá apresentar notícias dinâmicas.                                                                                | MÉDIA | 
 |RF-04| Agregar ao site um menu de busca para que o usuário possa buscar notícias específicas bem como deverá ter um menu adicional para que o usuário possa buscar notícias especificas.                                                                                                                         | ALTA |
