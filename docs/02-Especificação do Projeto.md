@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-A definição do problema e os pontos mais relevantes a serem tratados neste projeto foi sugerido pela falta de portais de notícias políticas para o público-alvo. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
+A definição do problema e os pontos mais relevantes a serem tratados neste projeto foi sugerido pela falta de portais de notícias esportivas para o público-alvo. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
