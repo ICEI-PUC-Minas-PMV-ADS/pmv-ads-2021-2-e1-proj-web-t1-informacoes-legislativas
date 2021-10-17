@@ -15,7 +15,8 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 ## Wireframes
 
-![Exemplo de Wireframe](https://miro.medium.com/max/300/1*p7Ja4R0-B-8DPQZxAHTwLQ.png)
+ <img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/estru.png?raw=true"
+
 
   As páginas  do site apresentam uma estrutura clara:
 -	Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
