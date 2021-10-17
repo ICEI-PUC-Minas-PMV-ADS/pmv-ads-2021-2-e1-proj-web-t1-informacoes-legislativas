@@ -3,13 +3,11 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Para a área de interação do site, priorizamos a simplicidade, facilidade e usabilidade. Assim, o site terá um layout adequado com todas as páginas que serão visualizadas pelo usuário em desktops ou dispositivos móveis.
+O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto: https://marvelapp.com/prototype/2bj6456g
 
 ## User Flow
 
-![Exemplo de UserFlow](https://cdn.dribbble.com/users/1286672/screenshots/6442079/userflowsdrib.gif)
-
-O protótipo acima mostra a experiencia do usuário ao navegar pelas páginas do site. 
+ <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/user%20flow.png?raw=true">
 
 
 
