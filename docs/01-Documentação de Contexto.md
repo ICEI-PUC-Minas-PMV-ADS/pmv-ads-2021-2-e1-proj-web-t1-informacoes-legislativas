@@ -1,8 +1,10 @@
 # Introdução
 
-Cada vez mais o debate político tem se tornado algo disseminado entre os jovens, afinal de contas, as decisões tomadas por nossos governantes impactam diretamente na vida de familiares, amigos e das organizações.
-A participação social e política do jovem brasileiro evolui, uma pesquisa feita pelo Datafolha em agosto de 2018, mostrou que jovens entre 16 e 25 anos são o grupo com maior interesse em participar diretamente da política, seja disputando uma eleição ou assumindo cargos do governo. A transformação de um país passa necessariamente pela renovação das gerações. Portanto, disseminar informação de forma clara utilizando uma linguagem compreensível e atingindo canais onde esses jovens se encontram é fundamental para engajar ainda mais nossa juventude. Por outro lado, alguns meios de comunicação menos confiáveis, acabam adotando uma narrativa que limita o perfil de notícias apresentadas, comprometendo o universo de informação, disseminando e propagando informações inverídicas.
-Isto posto, fica claro a importância de novos canais que possibilitem o acesso à informação de qualidade e que gere curiosidade acerca de assuntos relacionados ao nosso país. 
+O computador, o celular, o tablet e o vídeo game são gadgets muito atrativos e que fazem parte do cotidiano de crianças e adolescente. Por muitas vezes fica a impressão de que os jovens não gostam muito de se envolver em atividades coletivas ou ao ar livre, que eles trocariam qualquer tarefa por uma tela.
+
+Manter o corpo em movimento é essencial não somente para a saúde de crianças e adolescentes, mas também para o desenvolvimento deles em todos os âmbitos: físico, social, afetivo e intelectual. Em outras palavras, os esportes movimentam a rotina dos jovens porque trabalham corpo e mente, o que acaba por auxiliá-los no enfrentamento dos desafios encontrados nas mais diferentes áreas de suas vidas.
+
+Por esse motivo, se faz necessário a criação de sites, aplicativos, canais, que proporcionem ao jovem acessar um conteúdo diverso e que gere curiosidade acerca de assuntos relacionados ao esporte que eles mais gostam e estimulem a praticar atividades físicas.
 
 
 ## Problema
