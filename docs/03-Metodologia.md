@@ -35,7 +35,7 @@ etiquetas:
 
 -	Scrum Master: Gabriel Garcia
 - Product Owner: Bruna Oliveira de Castro
-- Equipe de Desenvolvimento: Victor Hugo e Rafael Vitor França
+- Equipe de Desenvolvimento: Gabriel Garcia e Rafael Vitor França
 - Design: Gabriel Garcia
 
 
