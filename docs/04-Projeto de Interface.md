@@ -34,3 +34,8 @@ Com base na estrutura padrão, o bloco de Conteúdo traz as notícias em destaqu
 
 <img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/home%202.png?raw=true">
 
+## Tela - Notícias de Categoria
+A tela de notícias de categoria apresenta, no Bloco de Conteúdo, as notícias referentes a uma categoria específica, escolhida pelo usuário. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
+
+<img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/categorias.png?raw=true">
+
