@@ -13,11 +13,11 @@ Diante disso, o problema que se busca resolver com este projeto é a criação d
 
 ## Objetivos
 
-A finalidade deste projeto é a criação de um portal de notícias que permita o acesso a notícias legislativas federais.
-Como objetivos específicos, podemos ressaltar:
--	Fornecer funcionalidades que permitam interagir com as notícias apresentadas por meio de comentários e pelo compartilhamento das notícias em redes sociais;
--	Integrar com centrais de notícias legislativas federais;
--	Permitir a criação de canais personalizados por usuário com tópicos de interesse individual.
+A finalidade deste projeto é a criação de um portal de notícias que permita o acesso a notícias relacionadas ao mundo dos esportes. Como objetivos específicos, podemos ressaltar:
+- Fornecer funcionalidades que permitam interagir com as notícias apresentadas por meio de comentários e pelo compartilhamento das notícias em redes sociais;
+- Integrar com centrais de notícias esportivas;
+- Permitir a criação de canais personalizados por usuário com tópicos de interesse individual.
+
 
 
 ## Justificativa
