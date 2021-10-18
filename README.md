@@ -12,7 +12,7 @@ Criação de um portal de notícias com entrevistas, fotos, vídeos e os bastido
 * Gabriel
 * Rafael
 * Bruna
-* Victor
+
 
 ## Orientador
 
