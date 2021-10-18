@@ -9,7 +9,7 @@ Por esse motivo, se faz necessário a criação de sites, aplicativos, canais, q
 
 ## Problema
 
-Diante disso, o problema que se busca resolver com este projeto é a criação de um website para os usuários jovens que buscam se informar sobre a modalidade esportiva que mais gosta, com confiabilidade, agilidade, imparcialidade e que esse portal possa estimular a prática esportiva.
+Diante disso, o problema que se busca resolver com este projeto é a criação de um website para os usuários jovens que buscam se informar sobre a modalidade esportiva que mais gosta com confiabilidade, agilidade, imparcialidade e que esse portal possa estimular a prática esportiva.
 
 ## Objetivos
 
