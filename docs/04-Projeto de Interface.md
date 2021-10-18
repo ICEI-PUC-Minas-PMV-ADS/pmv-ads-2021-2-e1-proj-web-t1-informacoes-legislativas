@@ -39,3 +39,9 @@ A tela de notícias de categoria apresenta, no Bloco de Conteúdo, as notícias 
 
 <img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/categorias.png?raw=true">
 
+## Tela - Resultado de Pesquisa
+Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele é direcionado para uma tela que traz a relação de notícias associadas ao tópico informado. Este resultado é apresentado na Figura a seguir.
+
+<img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/resultado.png?raw=true">
+
+
