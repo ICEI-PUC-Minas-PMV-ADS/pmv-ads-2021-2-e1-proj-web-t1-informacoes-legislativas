@@ -4,7 +4,7 @@ O computador, o celular, o tablet e o vídeo game são gadgets muito atrativos e
 
 Manter o corpo em movimento é essencial não somente para a saúde de crianças e adolescentes, mas também para o desenvolvimento deles em todos os âmbitos: físico, social, afetivo e intelectual. Em outras palavras, os esportes movimentam a rotina dos jovens porque trabalham corpo e mente, o que acaba por auxiliá-los no enfrentamento dos desafios encontrados nas mais diferentes áreas de suas vidas.
 
-Por esse motivo, se faz necessário a criação de sites, aplicativos, canais, que proporcionem ao jovem acessar um conteúdo diverso e que gere curiosidade acerca de assuntos relacionados ao esporte que eles mais gostam e estimulem a praticar atividades físicas.
+Por esse motivo, se faz necessário a criação de sites, aplicativos, canais, que proporcionem ao jovem acessar um conteúdo diverso e que gere curiosidade acerca de assuntos relacionados ao esporte que eles mais gostam e os estimulem a praticar atividades físicas.
 
 
 ## Problema
