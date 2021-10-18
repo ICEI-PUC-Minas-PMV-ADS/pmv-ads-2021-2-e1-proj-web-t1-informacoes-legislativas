@@ -32,5 +32,5 @@ Com base na estrutura padrão, o bloco de Conteúdo traz as notícias em destaqu
 -	Componente de notícias preferidas que leva o usuário para a tela de Notícias Preferidas;
 -	Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas.
 
-<img src ="">
+<img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/home%202.png?raw=true">
 
