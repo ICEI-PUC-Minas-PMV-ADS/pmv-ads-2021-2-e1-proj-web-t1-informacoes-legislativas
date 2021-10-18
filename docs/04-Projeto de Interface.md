@@ -23,3 +23,14 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 -	Artigo - apresenta o conteúdo da tela em questão;
 -	Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo.
 -	Rodapé - informações de contato.
+
+## Tela - Home-Page
+
+A tela de home-page mostra notícias de destaque a partir da API utilizada pelo sistema. 
+Com base na estrutura padrão, o bloco de Conteúdo traz as notícias em destaque (imagem, título, data, fonte e resumo, ícone de compartilhamento). O bloco da Barra Lateral traz três elementos distintos:
+-	Componente de pesquisa que permite substituir o conteúdo da página com o resultado da busca solicitada pelo usuário;
+-	Componente de notícias preferidas que leva o usuário para a tela de Notícias Preferidas;
+-	Componente de lista de categorias que dá acesso às páginas de cada uma das seções disponibilizadas.
+
+<img src ="">
+
