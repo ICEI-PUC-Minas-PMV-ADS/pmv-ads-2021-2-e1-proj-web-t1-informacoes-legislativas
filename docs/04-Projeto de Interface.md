@@ -47,5 +47,7 @@ Assim que o usuário informa um tópico de pesquisa, ao clicar no botão Ok, ele
 ## Tela - Leitura Notícias
 A tela de Leitura de Notícia apresenta, no Bloco de Conteúdo, uma notícia específica. O Bloco de Barra Lateral apresenta os mesmos elementos da Home-Page. 
 
+<img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/leituras.png?raw=true">
+
 
 
