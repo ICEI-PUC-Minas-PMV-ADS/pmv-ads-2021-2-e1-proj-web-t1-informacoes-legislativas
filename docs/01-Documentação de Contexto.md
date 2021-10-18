@@ -32,8 +32,9 @@ Há uma falta de portais de notícias esportivas destinadas a usuários jovens q
 
 ## Público-Alvo
 
-O foco deste trabalho está no público que tem habito de ler notícia sobre esportes com intuito de ampliarem os seus conhecimentos.
-Desta forma, estabeleceu-se como público-alvo adolescentes e jovens adultos brasileiros.
-Que buscam constante atualização sobre temas esportivo e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados.
- 
+
+O foco deste trabalho está nos jovens que gostariam de ler notícia sobre esportes de seu interesse, com o objetivo de ampliarem os seus conhecimentos e praticar atividades físicas que se adaptem ao seu perfil. Desta forma, estabeleceu-se como público-alvo jovens brasileiros. Que buscam constante atualização sobre temas esportivo e que fazem uso frequente de computadores e dispositivos móveis para se manterem informados. 
+-	Faixa etária: Acima de 12 anos
+-	Gênero: Qualquer
+
 
