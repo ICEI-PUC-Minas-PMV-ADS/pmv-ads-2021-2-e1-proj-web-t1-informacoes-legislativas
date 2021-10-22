@@ -10,7 +10,7 @@ Criação de um portal de notícias com entrevistas, fotos, vídeos e os bastido
 ## Integrantes
 
 * Gabriel
-* Rafael
+* Rafael Vitor França
 * Bruna
 
 
