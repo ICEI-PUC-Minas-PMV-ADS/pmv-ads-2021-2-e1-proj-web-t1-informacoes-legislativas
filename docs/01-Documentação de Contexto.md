@@ -4,10 +4,9 @@ A tecnologia e os serviços oferecidos por meios eletrônicos estão cada vez ma
 
 Uma outra consequência observada com presença cada vez mais frequênte de meios eletrônicos na vida das crianças e adolescentes é o comportamento sedentário. Segundo Ferrari et al., 2015, a presença de equipamentos eletrônicos no quarto de crianças pode afetar negativamente a prática de atividades físicas, contribuindo para inatividade física e obesidade. Ou seja, manter o corpo em movimento é essencial não somente para a saúde de crianças e adolescentes, mas também para o desenvolvimento deles em todos os âmbitos: físico, social, afetivo e intelectual. Em outras palavras, os esportes movimentam a rotina dos jovens porque trabalham corpo e mente, o que acaba por auxiliá-los no enfrentamento dos desafios encontrados nas mais diferentes áreas de suas vidas.
 
-Felizmente, a tecnologia não tem sido aplicada apenas como uma vilã da qualidade de vida e atividades físicas. Diversos aplicativos e ferramentas tecnológicas vêm sendo desenvolvias com o intuito de aumetar a quantidade e qualidade das atividades praticadas pelas pessoas (Barros, 2017; Secad, 2019). A mídia também possui seu papel em gerar mais interesse na prática de atividades físicas e, principalmente, de esportes. Segundo Ferreira et al., 2018, por exemplo, a mídia vem apresentando bastante influência sobre a prática de esportes além de também, interferir e alterar suas práticas, mesmo que seja para seu próprio bem.
+Felizmente, a tecnologia não tem sido aplicada apenas como uma vilã da qualidade de vida e atividades físicas. Diversos aplicativos e ferramentas tecnológicas vêm sendo desenvolvias com o intuito de aumetar a quantidade e qualidade das atividades praticadas pelas pessoas (Barros, 2017; Secad, 2019). A mídia também possui seu papel em gerar mais interesse na prática de atividades físicas e, principalmente, de esportes. Segundo Ferreira et al., 2018, por exemplo, a mídia vem apresentando bastante influência sobre a prática de esportes além de também, interferir e alterar suas práticas, mesmo que seja para interesse próprio (Betti, 2001). Pode-se observar, por exemplo, a elevada procura por aulas de Skate após os resultados do Brasil durante as Olimpíada de Tóquio 2021, no referido esporte (Ré, 2021).
 
 Visto as necessidades de motivação dos jovens à prática de atividades físicas, a criação de sites, aplicativos ou canais que proporcionem a esse grupo o acesso a um conteúdo diverso, capaz de gerar curiosidade acerca de assuntos relacionados ao esporte que eles mais gostam, pode gerar bons resultados. O presente trabalho, portanto, tem o intuito de desenvolver um site que visa manter crianças e jovens informadas sobre esportes de seu interesse. Com essa iniciativa, espera-se aumentar o engajamento dessa parcela da população em esportes e atividades físicas, reduzindo-se assim, a probabilidde de eventuais problemas futuros, psicológicos ou físicos.
-
 
 ## Problema
 
@@ -19,8 +18,6 @@ A finalidade deste projeto é a criação de um portal de notícias que permita 
 - Fornecer funcionalidades que permitam interagir com as notícias apresentadas por meio de comentários e pelo compartilhamento das notícias em redes sociais;
 - Integrar com centrais de notícias esportivas;
 - Permitir a criação de canais personalizados por usuário com tópicos de interesse individual.
-
-
 
 ## Justificativa
 
