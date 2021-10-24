@@ -10,7 +10,7 @@ O trabalho realiza a criação de um portal de notícias com entrevistas, fotos,
 
 ## Integrantes
 
-* Bruna
+* Bruna Oliveira de Castro
 * Felipe Augusto Rocha da Silva
 * Gabriel Garcia
 * Leonardo Filter Friedrich
