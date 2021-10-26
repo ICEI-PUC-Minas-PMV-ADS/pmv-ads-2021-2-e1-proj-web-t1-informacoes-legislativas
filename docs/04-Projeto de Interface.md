@@ -15,7 +15,7 @@ O diagrama apresentado na Figura X mostra o fluxo de interação do usuário pel
 
 ## Wireframes
 
- <img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/docs/img/estru.png?raw=true">
+ <img src ="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/docs/img/estrutur.png?raw=true">
 
 
   As páginas  do site apresentam uma estrutura clara:
