@@ -1,0 +1,19 @@
+h1{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: solid red;
+    text-align: center;
+}
+
+fieldset{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.h2-1{
+    text-align: center;
+}
