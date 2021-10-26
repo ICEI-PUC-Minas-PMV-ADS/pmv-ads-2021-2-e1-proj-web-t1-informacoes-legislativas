@@ -9,25 +9,22 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  ### Luana Alves
 
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/luana.png?raw=true">
+![Luana](img/luana.png)
 
 
  ### Marcelo Gomes
  
- <img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/marcelo.png?raw=true">
+ ![marcelo](img/marcelo.png)
 
 
 ### 	Andréia Almeida
 
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/andreia.png?raw=true">
-
+![andreia](img/andreia.png)
 
 
 ### João Pereira 
 
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/joao.png?raw=true">
-
-
+![Joao](img/joao.png)
 
 
 ## Histórias de Usuários
@@ -40,6 +37,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Marcelo Gomes       | Visualizar campeonatos de skate mais relevantes do meu país.                                  | Estar a par do que acontece no mudno do skate.       |
 |Andréia Almeida     | Visualizar notícias específicas sobre surf.                                                   | Visualizar notícias que possam me interessar.        |
 |João Pereira        | Ler sobre temas ligados a basketball.                                                         | Navegar por um site com notícias de basketball       |
+
 
 ## Requisitos
 
