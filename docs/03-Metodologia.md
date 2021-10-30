@@ -12,6 +12,8 @@ A Metodologia compreende os recursos e as ferramentas que serão aplicadas no de
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo o [Github](https://github.com) utilizado para hospedagem do repositório. Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Release e Develop.
 
+![marcelo](img/gestaoCodigoFonte.png)
+
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
