@@ -15,29 +15,23 @@ A ferramenta de controle de versão adotada no projeto foi o
 O projeto segue a seguinte convenção para o nome de branches:
 
 - `main`: versão estável já testada do software
-- `Release`: versão de software desenvolvida, porém em teste
+- `Release`: versão de software desenvolvida, porém em teste ou testada, mas instável
 - `Develop`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
 
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
--	Scrum Master: Gabriel Garcia
-- Product Owner: Bruna Oliveira de Castro
-- Equipe de Desenvolvimento: Gabriel Garcia e Rafael Vitor França
-- Design: Gabriel Garcia
-
-
-
+-	Scrum Master: Felipe Augusto Rocha da Silva
+- Product Owner: Gabriel Garcia
+- Equipe de Desenvolvimento: 
+ - Gabriel Garcia
+ - Felipe Augusto Rocha da Silva
+ - Leonardo Filter Friedrich
+ - Rafael Vitor França
+- Design: 
+ - Gabriel Garcia
+ - Leonardo Filter Friedrich
 
 ### Processo
 
@@ -48,9 +42,6 @@ etiquetas:
 -	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 O quadro kanban do grupo no  está disponível através da URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/projects/1
-
-
-
 
 ### Ferramentas
 
