@@ -32,8 +32,8 @@ O projeto segue a seguinte convenção para o nome de branches:
   - Leonardo Filter Friedrich
   - Rafael Vitor França
 - Design: 
- - Gabriel Garcia
- - Leonardo Filter Friedrich
+  - Gabriel Garcia
+  - Leonardo Filter Friedrich
 
 ### Processo
 
