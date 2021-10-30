@@ -16,7 +16,7 @@ A ferramenta de controle de versão adotada no projeto foi o
 
 O projeto segue a seguinte convenção para o nome de branches:
 
-- `main`: versão estável já testada do software
+- `Master`: versão estável já testada do software
 - `Release`: versão de software desenvolvida, porém em teste ou testada, mas instável
 - `Develop`: versão de desenvolvimento do software
 
@@ -27,10 +27,10 @@ O projeto segue a seguinte convenção para o nome de branches:
 -	Scrum Master: Felipe Augusto Rocha da Silva
 - Product Owner: Gabriel Garcia
 - Equipe de Desenvolvimento: 
- - Gabriel Garcia
- - Felipe Augusto Rocha da Silva
- - Leonardo Filter Friedrich
- - Rafael Vitor França
+  - Gabriel Garcia
+  - Felipe Augusto Rocha da Silva
+  - Leonardo Filter Friedrich
+  - Rafael Vitor França
 - Design: 
  - Gabriel Garcia
  - Leonardo Filter Friedrich
