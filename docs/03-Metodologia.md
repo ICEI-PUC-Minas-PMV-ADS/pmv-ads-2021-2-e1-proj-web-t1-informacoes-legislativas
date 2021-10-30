@@ -31,6 +31,7 @@ O projeto segue a seguinte convenção para o nome de branches:
   - Felipe Augusto Rocha da Silva
   - Leonardo Filter Friedrich
   - Rafael Vitor França
+  - Bruna Oliveira de Castro
 - Design: 
   - Gabriel Garcia
   - Leonardo Filter Friedrich
