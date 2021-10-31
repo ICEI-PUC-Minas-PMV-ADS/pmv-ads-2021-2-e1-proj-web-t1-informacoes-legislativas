@@ -12,7 +12,7 @@ A Metodologia compreende os recursos e as ferramentas que serão aplicadas no de
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo o [Github](https://github.com) utilizado para hospedagem do repositório. Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Release e Develop.
 
-![marcelo](img/gestaoCodigoFonte.png)
+![gestaoCodigoFonte](img/gestaoCodigoFonte.png)
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -44,7 +44,9 @@ O projeto segue a seguinte convenção para o nome de branches:
 -	Test: Checagem de Qualidade. É nesta etapa que damos um double check para verificar que a funcionalidade está estável.
 -	Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
-O quadro kanban do grupo no  está disponível através da URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/projects/1
+O quadro kanban do grupo está ilustrado na imagem abaixo, e pode ser encontrado através da URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/projects/1.
+
+![gerenciamentoProjeto](img/gerenciamentoProjeto.png)
 
 ### Ferramentas
 
