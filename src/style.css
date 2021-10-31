@@ -17,3 +17,38 @@ fieldset{
 .h2-1{
     text-align: center;
 }
+
+.logo img{float:left;}
+
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 30pt;
+  overflow: hidden;
+  background-color: white;
+}
+
+header li {
+  float: left;
+}
+
+header li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 8px;
+  text-decoration: none;
+}
+
+/* Change the link color to gray on hover */
+header li a:hover {
+  background-color: gray;
+}
+
+.active {
+  background-color: lightgray;
+}
+
+input{
+	float: right;
+}
