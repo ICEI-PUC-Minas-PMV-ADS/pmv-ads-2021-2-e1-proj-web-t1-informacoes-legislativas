@@ -34,9 +34,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Luana Alves         | Ler notícias esportivas mais relevantes do momento.                                           | Tomar ciência dos jogos de futebol que me interessam.|
-|Marcelo Gomes       | Visualizar campeonatos de skate mais relevantes do meu país.                                  | Estar a par do que acontece no mudno do skate.       |
+|Marcelo Gomes       | Visualizar campeonatos de skate mais relevantes do meu país.                                  | Estar a par do que acontece no mundo do skate.       |
 |Andréia Almeida     | Visualizar notícias específicas sobre surf.                                                   | Visualizar notícias que possam me interessar.        |
 |João Pereira        | Ler sobre temas ligados a basketball.                                                         | Navegar por um site com notícias de basketball       |
+|Andréia Almeida     | Ser capaz de buscar notícias específicas do meu esporte preferido.                            | Otimizar a leitura de notícias que mais me interessam.        |
+|Marcelo Gomes       | Visualizar a fonte da notícia lida.                                                           | Ter certeza que da veracidade da notícia.       |
+|Luana Alves         | Possua um campo para enviar, ler e responder comentários.                                     | Poder ler comentários sobre times, resultados e "cornetar" a torcida adversária.|
 
 
 ## Requisitos
@@ -50,10 +53,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-01| O site deve apresentar na página principal notícias esportivas obtidas por meio de canais confiáveis.                       | ALTA | 
 |RF-02| O site deverá apresentar atrativos visuais.                                                                                 | ALTA |
 |RF-03| O site deverá apresentar notícias dinâmicas.                                                                                | MÉDIA | 
-|RF-04| Agregar ao site um menu de busca para que o usuário possa buscar notícias específicas bem como deverá ter um menu adicional para que o usuário possa buscar notícias especificas.                                                                                                                         | ALTA |
+|RF-04| Agregar ao site um campo adicional para que o usuário possa buscar notícias especificas.                                                                                                                         | ALTA |
 |RF-05| Permitir visualizar os criadores e mantenedores desse site                                                                  | MÉDIA/ALTA | 
-|RF-06| Agregar ao site o botão compartilhar para as redes sociais (Facebook, Twitter, Instagram).                                  | MÉDIA |
-|RF-07| O site deve exibir os comentários registrados juntamente com a notícia exibida e deve permitir que usuários possam comentar.| BAIXA |
+|RF-06| O site deve exibir os comentários registrados juntamente com a notícia exibida e deve permitir que usuários possam comentar.| BAIXA |
 
 ### Requisitos não Funcionais
 
