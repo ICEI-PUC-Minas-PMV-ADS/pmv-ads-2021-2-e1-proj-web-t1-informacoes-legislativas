@@ -50,5 +50,36 @@ header li a:hover {
 }
 
 input{
-	float: right;
+	float: center;
 }
+
+
+.comentarios{
+  text-align: center;   
+ }
+
+ #name, #email {
+  margin: 5px;
+  border: 2px solid;
+  width: 800px;
+}
+
+#comentario{
+  margin: 5px;
+  text-align-last: center;
+  border: 2px solid;
+  width: 800px;
+  height: 100px;
+}
+
+#button{
+  margin: 4px;
+  border: 1px solid;
+  width: 500px;
+}
+
+.ra{
+  float: left;
+  padding: 5px;
+}
+
