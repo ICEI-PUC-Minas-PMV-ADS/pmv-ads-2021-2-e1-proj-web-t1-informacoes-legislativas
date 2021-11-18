@@ -2,13 +2,6 @@ body{
  font-family: Arial, Helvetica, sans-serif;
 }
 
-.wrapper{
-   display: grid;
-   grid-template-columns: 250px 1fr;
-   grid-template-rows: 150px 1fr;
-   grid-template-areas:  ;
-}  
-
 .logo{
   float: left;
   margin-right: 5px;
@@ -16,8 +9,7 @@ body{
   margin-bottom: 5px;
   }
 
- 
-h1 {
+ h1 {
 
     margin-left: 50px;
     margin-right: 50px;
@@ -52,6 +44,7 @@ fieldset {
 .field-1{
   background-color:#F2EFDF;
   margin-top: 20px;
+  margin-right: 500px;
 }
 
 .field-2{
@@ -62,24 +55,28 @@ legend{
   text-align: center;
 }
 
-.input-busc{
-  float: right;
-  margin-top: 13px;
-  margin-right: 10px;
-  padding: 7px;
+header li {
+float: left;
 }
 
-  header li {
-  float: left;
-}
-
-header li  a{
+header li a{
   display: inline-block;
   color:black;
   text-align: center;
-  padding: 20px;
+  padding: 5px;
   text-decoration: none;
 }
+
+.img-header{
+  padding-top: 15px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+input {
+  margin-top: 15px;
+  margin-left: 450px;
+  }
 
 
 
@@ -116,14 +113,13 @@ header li a:hover {
   width: 500px;
 }
 
-.ra{
+.rayssa-img{
   float: left;
+  border-radius: 20px;
+  padding-right: 10px;
   }
 
-  .pr{
-    margin-top: 30px;
-    margin-left: 230px;
-  }
+  
 
 
 
