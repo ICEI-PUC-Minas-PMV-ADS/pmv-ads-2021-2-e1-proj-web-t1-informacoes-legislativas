@@ -8,24 +8,32 @@
     <title>SporToday</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>	
-	<header>   
-    	<h1>SporToday</h1>
-		<div>
+<body>
+    <header>
+        <h1>SporToday</h1>
+        <div>
             <ul>
-                <img src="imagens/Sports.png" height="60" width="90" class="logo" alt="" srcset="">
-                <li><img src="imagens/soccer ball.png" alt=""><a href="futebol.html">Futebol</a><li>
-				<li><img src="imagens/volleyball.png" alt=""><img src="imagens/" alt=""><a href="Volei.html">Vôlei</a></li>
-				<li><img src="imagens/swimming.png" alt=""><a href="natacao.html">Natação</a></li>
-				<li><img src="imagens/surf.png" alt=""><a href="surf.html">Surf</a></li>
-				<li><img src="imagens/skate.png" alt=""><a href="skate.html">Skate</a></li>
-                <li><img src="imagens/basket ball.png" alt=""><a href="basket.html">Basket</a></li>
-                <input type="text" class="input-busc" placeholder="buscar" >
-			</ul>        	
-     	</div>
-   	</header>
+                <img src="img/logo.png" height="60" width="90" class="logo" alt="" srcset="">
+                <li><a href="futebol.html">Futebol<img src="img/soccer-ball.png" class="img-header" alt=""></a><li>
+				<li><a href="Volei.html">Vôlei<img src="img/volleyball.png" class="img-header" alt=""></a></li>
+				<li><a href="natacao.html">Natação<img src="img/natacao.png" class="img-header" alt=""></a></li>
+				<li><a href="surf.html">Surf<img src="img/surf.png" class="img-header" alt=""></a></li>
+				<li><a href="skate.html">Skate<img src="img/skate.png" class="img-header" alt=""></a></li>
+                <li><a href="basket.html">Basket<img src="img/basket ball.png" class="img-header" alt=""></a></li>
+                <li><form name = "myForm" action = "">
+                    <input type="text" class="input-busc" name = "fname">
+                    <input id = "btn" type="button" value="OK" onclick="getData()"></form>
+                </li>
+                </ul>
+        </div>
+    </header>
+    <div id="lista-news">
+        <fieldset class="field-1">
 
-    <script type = "text/javascript" src = "script.js"></script>
+        </fieldset>
+    </div>
+
+    <script type = "text/javascript" src = "scriptResults.js"></script>
     
 </body>
 </html>
