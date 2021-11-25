@@ -18,7 +18,6 @@ function getData() {
             }
 		    textoResultados += 
 		    `<fieldset class="field-1">
-		        <div class = "field-1">
 		            <h2 style="text-align:center;">${newsTitle}</h2>
 		            <a href=${data.articles[i].url}><img src=${data.articles[i].urlToImage} width="250" height="250"></a>
 		        </div>
@@ -54,7 +53,7 @@ function getData() {
 				    </div>
 			    </header>
 				<script type = "text/javascript" src = "scriptResults.js"></script>
-				<div id="lista-news">`, textoResultados, `</div>
+				<div>`, textoResultados, `</div>
                     <div class="rodape">
                         <fieldset class="field-2">
                             <legend>

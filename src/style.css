@@ -1,137 +1,167 @@
 body{
- font-family: Arial, Helvetica, sans-serif;
-}
-
-.logo{
-  float: left;
-  margin-right: 5px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  }
-
- h1 {
-
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    color: #D95A4E;
-    border: solid #1F8C81;
-    text-align: center;
-  }
-
-  .h2-1{
-    text-align: center;
-  }
-
-header ul {
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 30px;
-  margin-bottom: 20px;
-  list-style-type: none;
-  overflow: hidden;
-  background-color: #4BBFB4;
-}
-
-fieldset {
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
-
-#lista-news {
-  margin-left: 50px;
-  margin-right: 50px;
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
-
-.field-1{
-  background-color:#F2EFDF;
-  margin-top: 20px;
-  margin-right: 500px;
-}
-
-.field-2{
-  background-color: #4BBFB4;
-}
-
-legend{
-  text-align: center;
-}
-
-header li {
-float: left;
-}
-
-header li a{
-  display: inline-block;
-  color:black;
-  text-align: center;
-  padding: 5px;
-  text-decoration: none;
-}
-
-.img-header{
-  padding-top: 15px;
-  padding-right: 5px;
-  padding-left: 5px;
-}
-
-input {
-  margin-top: 15px;
-  margin-left: 450px;
-  }
-
-
-
-/* Change the link color to #F28749 on hover */
-header li a:hover {
-  background-color:#A62C21;
-}
-
-.active {
-  background-color: #F2EFDF;
-}
-
-.comentarios{
-  text-align: center;   
- }
-
- #name, #email {
-  margin: 5px;
-  border: 2px solid;
-  width: 800px;
-}
-
-#comentario{
-  margin: 5px;
-  text-align-last: center;
-  border: 2px solid;
-  width: 800px;
-  height: 100px;
-}
-
-#button{
-  margin: 4px;
-  border: 1px solid;
-  width: 500px;
-}
-
-.rayssa-img{
-  float: left;
-  border-radius: 20px;
-  padding-right: 10px;
-  }
-
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(to right, #115D8C, #11538C) ;
   
-
-
-
+ }
  
-
+ .logo{
+   box-shadow: 2px 2px rgba(0, 0, 0, 0.664);
+   float: left;
+   margin-right: 5px;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   }
  
-
+  h1 {
+    font-size: 3em;
+     text-shadow: 2px 1px 1px black ;
+     margin-left: 50px;
+     margin-right: 50px;
+     margin-top: 30px;
+     margin-bottom: 20px;
+     color: #cbcdcf;
+     text-align: center;
+   }
+ 
+   h2{
+     color: #d6d8da;
+     font-size: 2em;
+     text-shadow: 2px 2px 2px black;
+   }
+ 
+ 
+   
+ 
+ header ul {
+   box-shadow: 1px 1px black;
+   border-radius: 5px;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 30px;
+   margin-bottom: 20px;
+   list-style-type: none;
+   overflow: hidden;
+   background-color:#0396A6;
+ }
+ 
+ .field-index{
+   box-shadow: 2px 2px 2px  rgba(0, 0, 0, 0.616);
+   border-radius: 10px;  
+ }
+ 
+ .field-1{
+   box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.384);
+   border-radius: 20px;
+   text-align: center;
+   background-color: #F0F1F2;
+   margin-left: 150px;
+   margin-right: 50px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+ 
+ 
+ 
+ 
+ .field-2{
+   border-radius: 10px;
+   box-shadow: 1px 1px black;
+   background-color: #0396A6;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+ }
+ 
+ 
+ legend{
+   text-align: center;
+   
+ }
+ 
+ 
+ 
+ header li {
+ float: left;
+ }
+ 
+ header li a{
+   display: inline-block;
+   color:black;
+   text-align: center;
+   padding: 5px;
+   text-decoration: none;
+ }
+ 
+ .img-header{
+   padding-top: 15px;
+   padding-right: 5px;
+   padding-left: 5px;
+ }
+ 
+ input {
+   margin-top: 15px;
+   margin-left: 300px;
+   }
+ 
+ 
+ 
+ /* Change the link color to #F28749 on hover */
+ header li a:hover {
+   background-color: #F0F1F2;
+ }
+ 
+ .active {
+   background-color: #F2EFDF;
+ }
+ 
+ .comentarios{
+   text-align: center;   
+  }
+ 
+  #name, #email {
+   margin: 5px;
+   border: 2px solid;
+   width: 800px;
+ }
+ 
+ #comentario{
+   margin: 5px;
+   text-align-last: center;
+   border: 2px solid;
+   width: 800px;
+   height: 100px;
+ }
+ 
+ #button{
+   margin: 4px;
+   border: 1px solid;
+   width: 500px;
+ }
+ 
+ .noticia-img{
+   float: left;
+   border-radius: 20px;
+   padding-right: 10px;
+   }
+ 
+ .b{
+   display: inline-block;
+   margin: 20px;
+  }
+ 
+ .c{
+   display: inline-block;
+   margin: 20px;
+ }
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
  
