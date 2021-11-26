@@ -17,8 +17,8 @@ function getData() {
 		        newsTitle = descriptionPt;
             }
 		    textoResultados += 
-		    `<fieldset class="field-1">
-		            <h2 style="text-align:center;">${newsTitle}</h2>
+		    `<fieldset class="field-result">
+		            <h3 style="text-align:center;">${newsTitle}</h3>
 		            <a href=${data.articles[i].url}><img src=${data.articles[i].urlToImage} width="250" height="250"></a>
 		        </div>
 		    </fieldset>`
@@ -45,9 +45,10 @@ function getData() {
 			    			<li><a href="surf.html">Surf<img src="img/surf.png" class="img-header" alt=""></a></li>
 				    		<li><a href="skate.html">Skate<img src="img/skate.png" class="img-header" alt=""></a></li>
 					    	<li><a href="basket.html">Basket<img src="img/basket ball.png" class="img-header" alt=""></a></li>
+							<li><a href="index.html">Voltar<img src="img/voltar.png" class="img-header" alt=""></a></li>
     						<li><form name = "myForm" action = "">
 	    						<input type="text" class="input-busc" name = "fname" value = ${x}>
-		    					<input id = "btn" type="button" value="OK" onclick="getData()"></form>
+		    					<input id = "btn" type="button" value="OK" onclick="getData()"></button>
 			    			</li>
 				    	</ul>
 				    </div>
