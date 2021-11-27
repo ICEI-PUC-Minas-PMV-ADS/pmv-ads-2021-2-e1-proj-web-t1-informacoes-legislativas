@@ -1,15 +1,5 @@
-# Template padrão do site
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
-
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Estrutura do site:
+![estrutur](https://user-images.githubusercontent.com/88354883/143690199-3c4d4a83-64f8-4f8b-943f-cb76256e2e52.png)
 
 ![PAGINA INICIAL_LI](https://user-images.githubusercontent.com/88354883/143690022-c6e740ea-7b81-42ff-8f9c-81955da78728.jpg)
 Em vermelho as noticias mais atuais e em verde a caixa de busca (RF-01, RF-03 e RF-04)
