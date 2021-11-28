@@ -1,5 +1,6 @@
 function getData() {
 	var x = document.forms["myForm"]["fname"].value;
+	console.log(x)
 	const apiKey = 'b02df544e547429b97eb5c4359fb913d';
 	var url = `https://newsapi.org/v2/everything?q=${x}&apiKey=${apiKey}`
 	fetch(url).then((res)=>{
@@ -18,9 +19,12 @@ function getData() {
             }
 		    textoResultados += 
 		    `<fieldset class="field-result">
-		            <h3 style="text-align:center;">${newsTitle}</h3>
-		            <a href=${data.articles[i].url}><img src=${data.articles[i].urlToImage} width="250" height="250"></a>
-		        </div>
+		            <a href=${data.articles[i].url}><img src=${data.articles[i].urlToImage} style="float: left;" width="230" height="230"></a>
+					<h3 style="padding-right: 300px;">${newsTitle}</h3>
+					<details style="padding-right: 500px;">
+					<p style="padding-right: 20px;">${data.articles[i].description}</p>
+					<strong><p>Clique na imagem para a notícia completa</p></strong>
+					</div>
 		    </fieldset>`
         };
 		document.write(`<!DOCTYPE html>
