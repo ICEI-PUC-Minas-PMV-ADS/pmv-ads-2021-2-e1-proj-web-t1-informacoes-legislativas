@@ -9,3 +9,6 @@ Pagina de noticia de um esporte em especifico, em laranja a demonstração do es
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![NOTICIA + COMENTARIOS_LI](https://user-images.githubusercontent.com/88354883/143689999-6905bfa2-4570-4fc7-97c0-2e761bfcfd70.jpg)
 Em rosa a caixa de comentário para cada noticia (RF-06)
+
+![PESQUISA BARRA DE FAVORITO_LI](https://user-images.githubusercontent.com/88354883/143779492-33292cac-459f-4810-901f-d4b276e153a6.jpg)
+Barra de pesquisa em funcionamento.
