@@ -21,8 +21,7 @@
 				<li><a href="skate.html">Skate<img src="img/skate.png" class="img-header" alt=""></a></li>
                 <li><a href="basquete.html">Basquete<img src="img/basket ball.png" class="img-header" alt=""></a></li>
                 <li><a href="index.html">Voltar<img src="img/voltar.png" class="img-header" alt=""></a></li>
-                <li><input type="text" class="input-busc"><button>OK</button></li>
-                </ul>
+            </ul>
         </div>
     </header>
        
@@ -37,38 +36,49 @@
 
 
          </fieldset>
-        </div>
-           <div>
-               <fieldset class="field-1">
-            <legend><h2>Comentários</h2></legend>
-            <input id="name" placeholder="Name">
-            <br>
-            <input id="email" placeholder="Email">
-            <br>
-            <input id="comentario" placeholder="Comentário">
-            <br>
-            <button id="button">Enviar</button>
-                </fieldset>
-            </div>
-            </fieldset>
-        </div>
+         <div class="comentarios">
+            <fieldset class="field-1">
+         <legend><h2>Comentários</h2></legend>
+         
+         <div class="container">
+             <form>
+               <div class="form-group">
+                 <textarea
+                 
+                   class="form-control status-box"
+                   rows="3"
+                   placeholder="Deixe seu nome e comentário"
+                 ></textarea>
+               </div>
+             </form>
+             <div class="button-group pull-right">
+            
+               <a href="#" class="btn btn-primary" onclick="test()"><button><strong>COMENTE</strong></button></a>
+             </div>
+             <ul class="posts"></ul>
+           </div>
+             </fieldset>
+         </div>
+         </fieldset>
+     </div>
+  
+     <div class="rodape">
+         <fieldset class="field-2">
+         <legend>
+             <h2>Nos siga nas redes</h2>
+         </legend>
+         <ul>
+             <li><img src="img/icone-instagram.png" alt=""> <a href="https://www.instagram.com/" target="_blank" rel="external">instagram</a>- <strong>Nosso instagram</strong></li> 
+             
+             <li><img src="img/icone-twitter.png" alt=""> <a href="https://twitter.com" target="_blank" rel="external">twitter</a>- <strong>Nos siga no twitter</strong></li>
+            
+             <li><img src="img/icone-youtube.png" alt=""> <a href="https://www.youtube.com/" target="_blank" rel="external">youtube</a> <strong>Se inscreva no canal</strong></li>
+         </ul>
+         </fieldset>
      
-        <div>
-            <fieldset class="field-2">
-            <legend>
-                <h2>Nos siga nas redes</h2>
-            </legend>
-            <ul>
-                <li><img src="img/icone-instagram.png" alt=""> <a href="https://www.instagram.com/" target="_blank" rel="external">instagram</a>- <strong>Nosso instagram</strong></li> 
-                
-                <li><img src="img/icone-twitter.png" alt=""> <a href="https://twitter.com" target="_blank" rel="external">twitter</a>- <strong>Nos siga no twitter</strong></li>
-               
-                <li><img src="img/icone-youtube.png" alt=""> <a href="https://www.youtube.com/" target="_blank" rel="external">youtube</a> <strong>Se inscreva no canal</strong></li>
-            </ul>
-            </fieldset>
-        
-        </div>
-    
-    
+     </div>
+ 
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+     <script src="script.js"></script>   
 </body>
 </html>
