@@ -14,7 +14,7 @@ O trabalho realiza a criação de um portal de notícias com entrevistas, fotos,
 * Felipe Augusto Rocha da Silva
 * Gabriel Garcia
 * Leonardo Filter Friedrich
-* Rafael Vitor França
+
 
 ## Orientador
 
