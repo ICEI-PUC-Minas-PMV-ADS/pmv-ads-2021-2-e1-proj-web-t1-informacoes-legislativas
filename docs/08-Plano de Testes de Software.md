@@ -1,10 +1,13 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+|Caso de Teste |CT-01 - Notícias de canais confiáveis na página principal |
+|--------------------|------------------------------------|
+|Requisitos Associados |RF-01 - O site deve apresentar na página principal notícias esportivas obtidas por meio de canais confiáveis. |
+|Objetivo do teste | Apresentar ao usuário a última notícia de cada um dos esportes na página principal do site. |
+|Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar a página principal |
+|Critérios de Êxito |- As notícias devem ser exibidas corretamente no site, sendo necessárias a apresentação de pelo menos 4 notícias </br>- As notícias devem trazer imagens visíveis associadas ao assunto da notícia |
  
 ## Ferramentas de Testes (Opcional)
 
