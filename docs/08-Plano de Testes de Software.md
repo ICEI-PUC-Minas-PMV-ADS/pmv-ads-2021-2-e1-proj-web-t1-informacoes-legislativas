@@ -15,6 +15,13 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Objetivo do teste | Apresentar ao usuário notícias que interesse a ele de maneira dinâmica, por meio de um campo pelo qual ele possa buscar notícias específicas |
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar na página principal o campo de pesquisa. </br> Realizar a busca </br> Pressionar o botão OK |
 |Critérios de Êxito |- As notícias devem ser exibidas corretamente no site após a pesquisa, com itens referentes à pesquisa realizada </br>- As notícias devem trazer imagens visíveis associadas ao assunto da notícia </br>- Cada notícia apresentada como resultado da pesquisa deve conter uma breve descrição de seu conteúdo, possibilitando ao usuário ler todo o conteúdo se desejado </br>- Os resultados da pesquisa devem permitir ao usuário acessar a página de origem da notícia, caso desejado |
+
+|Caso de Teste |CT-03 - Permitir comentar as notícias e ler comentários já realizados |
+|--------------------|------------------------------------|
+|Requisitos Associados | RF-06 - O site deve exibir os comentários registrados juntamente com a notícia exibida e deve permitir que usuários possam comentar. |
+|Objetivo do teste | Permitir ao usuário registrar comentários de uma determinada notícia e visualizar comentários realizados anteriormente na mesma notícia. |
+|Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar na página principal o campo de pesquisa. </br> Escolher uma notícia </br> Preencher o campo comentário </br> Inserir comentário |
+|Critérios de Êxito |- Ao clicar em inserir comentário, o comentário deve ser apresentado no campo de comentários com os dados do autor do comentário </br>- O leitor da notícia deve ser capaz de visualizar os comentários realizados |
  
 ## Ferramentas de Testes (Opcional)
 
