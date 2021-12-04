@@ -22,6 +22,7 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Objetivo do teste | Permitir ao usuário registrar comentários de uma determinada notícia e visualizar comentários realizados anteriormente na mesma notícia. |
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar na página principal o campo de pesquisa. </br> Escolher uma notícia </br> Preencher o campo comentário </br> Inserir comentário |
 |Critérios de Êxito |- Ao clicar em inserir comentário, o comentário deve ser apresentado no campo de comentários com os dados do autor do comentário </br>- O leitor da notícia deve ser capaz de visualizar os comentários realizados |
+
 ![Imagem comentarios historico](https://user-images.githubusercontent.com/88354883/144719808-d9f4b3a0-f62d-40dc-801f-2d1ac2bf5ad5.jpeg)
 
  
