@@ -9,6 +9,9 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar a página principal |
 |Critérios de Êxito |- As notícias devem ser exibidas corretamente no site, sendo necessárias a apresentação de pelo menos 4 notícias </br>- As notícias devem trazer imagens visíveis associadas ao assunto da notícia |
 
+![imagem ultimas noticias](https://user-images.githubusercontent.com/88354883/144719900-e3e9088d-8b62-42a2-9f65-d3fb6ace14f5.jpeg)
+
+
 |Caso de Teste |CT-02 - Buscar notícias de um esporte preferido de maneira dinâmica |
 |--------------------|------------------------------------|
 |Requisitos Associados | RF-03 - O site deverá apresentar notícias dinâmicas. </br> O site deverá apresentar atrativos visuais. </br> Agregar ao site um campo adicional para que o usuário possa buscar notícias especificas. |
