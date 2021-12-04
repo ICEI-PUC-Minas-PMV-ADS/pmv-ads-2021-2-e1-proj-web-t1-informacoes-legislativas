@@ -16,6 +16,9 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar na página principal o campo de pesquisa. </br> Digitar as palavras chaves para pesquisa  </br> Pressionar o botão OK |
 |Critérios de Êxito |- As notícias devem ser exibidas corretamente no site após a pesquisa, com itens referentes à pesquisa realizada </br>- As notícias devem trazer imagens visíveis associadas ao assunto da notícia </br>- Cada notícia apresentada como resultado da pesquisa deve conter uma breve descrição de seu conteúdo, possibilitando ao usuário ler todo o conteúdo se desejado </br>- Os resultados da pesquisa devem permitir ao usuário acessar a página de origem da notícia, caso desejado |
 
+![imagem esporte especifico](https://user-images.githubusercontent.com/88354883/144719858-abba80ab-95ed-4d8a-971b-6344272a68b4.jpeg)
+
+
 |Caso de Teste |CT-03 - Permitir comentar as notícias e ler comentários já realizados |
 |--------------------|------------------------------------|
 |Requisitos Associados | RF-06 - O site deve exibir os comentários registrados juntamente com a notícia exibida e deve permitir que usuários possam comentar. |
