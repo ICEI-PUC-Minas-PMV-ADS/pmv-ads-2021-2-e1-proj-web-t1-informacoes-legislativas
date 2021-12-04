@@ -19,9 +19,9 @@ function getData() {
 			textoResultados += 
 				`<fieldset class="field-1">
 					<a href=${data.articles[i].url}><img src=${data.articles[i].urlToImage} style="float: left;" width="230" height="230"></a>
-					<h3 style="padding-right: 300px;">${newsTitle}</h3>
-					<details style="padding-right: 500px;">
-						<p style="padding-right: 20px;">${data.articles[i].description}</p>
+					<h3>${newsTitle}</h3>
+					<details>
+						<p>${data.articles[i].description}</p>
 						<strong><p>Clique na imagem para a notícia completa</p></strong>
 					</div>
 				</fieldset>`
