@@ -6,3 +6,6 @@ TESTE CT-02: OK!
 
 TESTE CT-03: OK!
 ![Imagem comentarios historico](https://user-images.githubusercontent.com/88354883/144719808-d9f4b3a0-f62d-40dc-801f-2d1ac2bf5ad5.jpeg)
+
+TESTE CT-04: OK!
+![image](https://user-images.githubusercontent.com/88354883/144749855-8bf2262e-7a0e-4d58-b3e4-75992ee082a9.png)
