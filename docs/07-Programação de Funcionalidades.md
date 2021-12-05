@@ -1,15 +1,11 @@
-# Programação de Funcionalidades
+![PAGINA INICIAL_LI](https://user-images.githubusercontent.com/88354883/143690022-c6e740ea-7b81-42ff-8f9c-81955da78728.jpg)
+Em vermelho as noticias mais atuais e em verde a caixa de busca (RF-01, RF-03 e RF-04)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![PAGINA DE NOTICIA ESPECIFICA_LI](https://user-images.githubusercontent.com/88354883/143690100-4f859c8c-0018-476f-8bdb-28ba906cd2f0.jpg)
+Pagina de noticia de um esporte em especifico, em laranja a demonstração do esporte que a pagina exibe. (RF-02)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![NOTICIA + COMENTARIOS_LI](https://user-images.githubusercontent.com/88354883/143689999-6905bfa2-4570-4fc7-97c0-2e761bfcfd70.jpg)
+Em rosa a caixa de comentário para cada noticia (RF-06)
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
-
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
-
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+![BARRA DE PESQUISA FUNCIONANDO_LI](https://user-images.githubusercontent.com/88354883/143781192-1d0833f3-a1ea-4fe8-8434-21740ba77dbe.jpg)
+Barra de pesquisa em funcionamento.
