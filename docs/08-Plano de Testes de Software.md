@@ -9,8 +9,6 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar a página principal |
 |Critérios de Êxito |- As notícias devem ser exibidas corretamente no site, sendo necessárias a apresentação de pelo menos 4 notícias </br>- As notícias devem trazer imagens visíveis associadas ao assunto da notícia |
 
-![imagem ultimas noticias](https://user-images.githubusercontent.com/88354883/144719900-e3e9088d-8b62-42a2-9f65-d3fb6ace14f5.jpeg)
-
 
 |Caso de Teste |CT-02 - Buscar notícias de um esporte preferido de maneira dinâmica |
 |--------------------|------------------------------------|
@@ -18,8 +16,6 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Objetivo do teste | Apresentar ao usuário notícias que interesse a ele de maneira dinâmica, por meio de um campo pelo qual ele possa buscar notícias específicas |
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar na página principal o campo de pesquisa. </br> Digitar as palavras chaves para pesquisa  </br> Pressionar o botão OK |
 |Critérios de Êxito |- As notícias devem ser exibidas corretamente no site após a pesquisa, com itens referentes à pesquisa realizada </br>- As notícias devem trazer imagens visíveis associadas ao assunto da notícia </br>- Cada notícia apresentada como resultado da pesquisa deve conter uma breve descrição de seu conteúdo, possibilitando ao usuário ler todo o conteúdo se desejado </br>- Os resultados da pesquisa devem permitir ao usuário acessar a página de origem da notícia, caso desejado |
-
-![imagem esporte especifico](https://user-images.githubusercontent.com/88354883/144719858-abba80ab-95ed-4d8a-971b-6344272a68b4.jpeg)
 
 
 |Caso de Teste |CT-03 - Permitir comentar as notícias e ler comentários já realizados |
@@ -29,4 +25,3 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar na página principal o campo de pesquisa. </br> Escolher uma notícia </br> Preencher o campo comentário </br> Inserir comentário |
 |Critérios de Êxito |- Ao clicar em inserir comentário, o comentário deve ser apresentado no campo de comentários com os dados do autor do comentário </br>- O leitor da notícia deve ser capaz de visualizar os comentários realizados |
 
-![Imagem comentarios historico](https://user-images.githubusercontent.com/88354883/144719808-d9f4b3a0-f62d-40dc-801f-2d1ac2bf5ad5.jpeg)
