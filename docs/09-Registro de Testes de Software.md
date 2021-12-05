@@ -1,12 +1,8 @@
-# Registro de Testes de Software
+TESTE CT-01: OK!  
+![imagem ultimas noticias](https://user-images.githubusercontent.com/88354883/144719900-e3e9088d-8b62-42a2-9f65-d3fb6ace14f5.jpeg)
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+TESTE CT-02: OK!
+![imagem esporte especifico](https://user-images.githubusercontent.com/88354883/144719858-abba80ab-95ed-4d8a-971b-6344272a68b4.jpeg)
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
-
-## Avaliação
-
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+TESTE CT-03: OK!
+![Imagem comentarios historico](https://user-images.githubusercontent.com/88354883/144719808-d9f4b3a0-f62d-40dc-801f-2d1ac2bf5ad5.jpeg)
