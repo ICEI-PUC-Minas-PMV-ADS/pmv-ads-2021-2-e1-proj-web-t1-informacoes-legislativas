@@ -15,7 +15,6 @@ O trabalho realiza a criação de um portal de notícias com entrevistas, fotos,
 * Gabriel Garcia
 * Leonardo Filter Friedrich
 
-
 ## Orientador
 
 * Joyce Christina De Paiva Carvalho
