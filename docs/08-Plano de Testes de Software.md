@@ -30,5 +30,5 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |--------------------|------------------------------------|
 |Requisitos Associados | RF-05 - O site deve exibir os mantenedores do site |
 |Objetivo do teste | Permitir ao usuário visualizar os gestores do site |
-|Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar nroda pé da pagina as formas de contato com os mantenedores. |
+|Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar nroda pé da pagina as formas de contato com os mantenedores.               |
 |Critérios de Êxito |- Ao rolar a pagina ate o rodapé se tem acesso as redes sociais do gestores do site. |
