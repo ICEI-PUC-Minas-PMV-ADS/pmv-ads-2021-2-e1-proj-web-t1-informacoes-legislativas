@@ -26,9 +26,9 @@ Os testes funcionais a serem realizados no aplicativo estão descritos a seguir.
 |Critérios de Êxito |- Ao clicar em inserir comentário, o comentário deve ser apresentado no campo de comentários com os dados do autor do comentário </br>- O leitor da notícia deve ser capaz de visualizar os comentários realizados |
 
 
-|Caso de Teste |CT-04 - Permitir visualizar os mantenedores do site |
+|Caso de Teste |CT-04 - Permitir visualizar os mantenedores do site                     |
 |--------------------|------------------------------------|
-|Requisitos Associados | RF-05 - O site deve exibir os mantenedores do site |
+|Requisitos Associados | RF-05 - O site deve exibir os mantenedores do site                                                                                          |
 |Objetivo do teste | Permitir ao usuário visualizar os gestores do site |
 |Passos | 1) Acessar o navegador </br> 2) Informar o endereço do site </br> 3) Visualizar nroda pé da pagina as formas de contato com os mantenedores.               |
 |Critérios de Êxito |- Ao rolar a pagina ate o rodapé se tem acesso as redes sociais do gestores do site. |
