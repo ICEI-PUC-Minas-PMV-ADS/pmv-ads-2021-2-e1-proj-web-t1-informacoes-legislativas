@@ -1,2 +1,2 @@
 Estrutura do site:
-![estrutur](https://user-images.githubusercontent.com/88354883/143690199-3c4d4a83-64f8-4f8b-943f-cb76256e2e52.png)
+![estrutur](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t1-informacoes-legislativas/blob/main/src/img/index-print.png?raw=true)
